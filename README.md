@@ -1,4 +1,4 @@
-# chat-app-server using socket
+# chat-app-client using socket
 
 This project has a server and a client application. The server manages and validates the user accounts based on username and password. The client can log into the server using TCP connection, get the list of other users on the server, send a text message to another user, check his/her own inbox messages, and chat with another user.
 
